@@ -1,6 +1,6 @@
 /* hero-section  */
 .hero-section .search-blog {
-  width: 80%;
+  max-width: 1100px;
   margin: 20px 0;
 }
 
@@ -42,11 +42,11 @@
   width: 100%;
 }
 
-.section-a {
+.posts {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  width: 80%;
+  max-width: 1100px;
   margin: auto;
   /* background-color: #247470; */
 }
